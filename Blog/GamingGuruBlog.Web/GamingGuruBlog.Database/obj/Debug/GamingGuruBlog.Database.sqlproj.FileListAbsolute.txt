@@ -1,0 +1,9 @@
+C:\Users\tim.reimherr\_repos\TMMCBlog\Blog\GamingGuruBlog.Web\GamingGuruBlog.Database\bin\Debug\GamingGuruBlog.Database.dacpac
+C:\Users\tim.reimherr\_repos\TMMCBlog\Blog\GamingGuruBlog.Web\GamingGuruBlog.Database\bin\Debug\GamingGuruBlog.Database.dll
+C:\Users\tim.reimherr\_repos\TMMCBlog\Blog\GamingGuruBlog.Web\GamingGuruBlog.Database\bin\Debug\GamingGuruBlog.Database.pdb
+C:\Users\tim.reimherr\_repos\TMMCBlog\Blog\GamingGuruBlog.Web\GamingGuruBlog.Database\obj\Debug\GamingGuruBlog.Database.dll
+C:\Users\tim.reimherr\_repos\TMMCBlog\Blog\GamingGuruBlog.Web\GamingGuruBlog.Database\obj\Debug\GamingGuruBlog.Database.pdb
+C:\Users\tim.reimherr\_repos\TMMCBlog\Blog\GamingGuruBlog.Web\GamingGuruBlog.Database\obj\Debug\Model.xml
+C:\Users\tim.reimherr\_repos\TMMCBlog\Blog\GamingGuruBlog.Web\GamingGuruBlog.Database\obj\Debug\refactor.xml
+C:\Users\tim.reimherr\_repos\TMMCBlog\Blog\GamingGuruBlog.Web\GamingGuruBlog.Database\obj\Debug\postdeploy.sql
+C:\Users\tim.reimherr\_repos\TMMCBlog\Blog\GamingGuruBlog.Web\GamingGuruBlog.Database\obj\Debug\predeploy.sql
